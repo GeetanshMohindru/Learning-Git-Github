@@ -1,4 +1,3 @@
-# E-commerce-Website
-Front-End Project<br>
-Amazon Clone<br>
+# Learning Git-Github
+Apna College<br>
 Author- Geetansh Mohindru
